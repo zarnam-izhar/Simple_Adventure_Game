@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "inquirer": "^9.3.2",
+    "install": "^0.13.0",
+    "node-modules": "^1.0.1"
+  },
+  "name": "zarnam_izhar_adventure_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
